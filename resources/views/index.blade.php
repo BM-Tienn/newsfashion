@@ -14,6 +14,9 @@
                 <div class="content-hover">
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -26,6 +29,9 @@
                 <div class="content-hover">
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -38,6 +44,9 @@
                 <div class="content-hover">
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -50,6 +59,9 @@
                 <div class="content-hover">
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -62,6 +74,9 @@
                 <div class="content-hover">
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -74,6 +89,9 @@
                 <div class="content-hover">
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -86,6 +104,9 @@
                 <div class="content-hover">
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -98,6 +119,9 @@
                 <div class="content-hover">
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -134,6 +158,9 @@
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
 
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -148,6 +175,9 @@
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
 
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -162,6 +192,9 @@
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
 
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -176,6 +209,9 @@
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
 
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -190,6 +226,9 @@
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
 
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -204,6 +243,9 @@
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
 
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -218,6 +260,9 @@
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
 
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">
@@ -232,6 +277,9 @@
                     <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-backgr">
 
                     <div class="overlay">
+                        <div class="cart-oder" >
+                            <i class="fas fa-cart-plus fa-2x"></i>
+                        </div>
                     </div>
                   </div>
                 <img src="{{ asset('storage/image/ao-so-mi-mau-trang-2.jpg') }}" alt="áo sơ mi trắng" class="content-img">

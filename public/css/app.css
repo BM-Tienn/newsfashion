@@ -6,11 +6,10 @@
 #header {
     overflow: hidden;
     background-color: #FAFAFA;
-    border: 1px solid #bbb;
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 2;
+    z-index: 3;
     height: auto;
 }
 a {
@@ -104,6 +103,7 @@ ul li {
 }
 .content-item {
     margin-top: 20px;
+    /* position: relative; */
 }
 .content-item a {
     color: black;
@@ -180,7 +180,6 @@ ul li {
     height: 60px;
     line-height: 60px;
     color: azure;
-
     position:absolute;
     margin: 10px 0px 0px 10px;
 }
@@ -273,4 +272,121 @@ ul li {
 #footer .footer-email {
     margin-top: 10px;
     color: #fff;
+}
+.cart-oder {
+    width: 70px;
+    height: 70px;
+    background-color: red;
+    border-radius: 50%;
+    z-index: 2;
+    margin: 50% auto;
+}
+.cart-oder i {
+    padding: 1.2rem 0 0;
+    color: #fff;
+}
+.btnshow {
+    display: none;
+}
+/* detail */
+.detail-title {
+    width: 100%;
+    background-color: #FAFAFA;
+    height: 40px;
+    margin: 10px 0;
+}
+.detail-title h6 {
+    line-height: 40px;
+}
+#wrap{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    padding: 0px;
+}
+#slider{
+    width: 400px;
+    height: 600px;
+    margin: 0px auto;
+    padding: 0px;
+}
+#thumbnail_slider {
+    width:100px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 0px;
+}
+.slide-item img {
+    width: 500px;
+    height: 600px;
+
+}
+.thumbnail-item img {
+    width: 100%;
+    padding: 5px;
+}
+.slider-slick-prev,.slider-slick-next {
+    height: 80px;
+    width: 30px;
+    top: 50%;
+    position:absolute;
+}
+.slider-slick-next {
+    right: 0;
+}
+.detail-slider-item {
+    width: 550px;
+}
+.slider-slick-prev, .slider-slick-next {
+    display: none !important;
+}
+
+.detail-item-select {
+    text-align: center;
+}
+.detail-item-relate {
+    margin-top: 20px;
+}
+.detail-item-relate a {
+    color: black;
+
+}
+.detail-item-relate .content-backgr {
+    width: 80%;
+    height: 180px;
+    padding: 0 auto;
+}
+.detail-item-relate .content-img {
+    width: 15%;
+    height: 40px;
+    padding: 0px auto;
+    margin-top: 10px;
+    border: 1px solid rgb(194, 175, 175);
+}
+.detail-item-relate p {
+    margin: 0px;
+}
+.detail-item-relate .content-text{
+    font-weight: 500;
+    text-transform: uppercase;
+    width: 80%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.detail-item-relate .content-price {
+    font-weight: bold;
+    color: red;
+}
+.slick-track {
+    height: 200px !important;
+}
+.clearfix {
+    height: 300px;
+}
+.product-rating {
+    text-align: left;
+}
+.detail-tabs {
+    background-color: #FAFAFA, ;
 }
